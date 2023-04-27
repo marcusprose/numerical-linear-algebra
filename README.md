@@ -1,2 +1,2 @@
 # numerical-linear-algebra
-Typed responses from my first NLA course.
+A subset of typed responses for a graduate course in numerical linear algebra.
